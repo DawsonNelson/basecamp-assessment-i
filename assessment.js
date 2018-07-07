@@ -10,6 +10,7 @@ var faveNum = 19
 
 var lovesCode = true
 
+
 // #4 Using the previously created variables, create a new variable called 'me' that uses the myName and faveNum varible to create a sentence like this 'My name is Bryan and my favorite number is 3'
 
 var me = "Hello my name is"+ myName +"and my favorite number is"+ faveNum +".";
